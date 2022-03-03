@@ -6,3 +6,4 @@ new empty file
 executes hello
 script that grants multiple permissions
 script that grants permissions to everybody
+script that grants permissions to other users only
