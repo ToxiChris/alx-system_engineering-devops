@@ -4,3 +4,4 @@ tells what groups user belongs
 changes file ownership
 new empty file
 executes hello
+script that grants multiple permissions
