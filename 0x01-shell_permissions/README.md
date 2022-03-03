@@ -3,3 +3,4 @@ second script prints current user
 tells what groups user belongs
 changes file ownership
 new empty file
+executes hello
